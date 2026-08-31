@@ -57,7 +57,7 @@ function About() {
 
               <div className="grid sm:grid-cols-2 gap-5 mt-8">
 
-                <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/10">
+                <div className="p-6 rounded-2xl bg-white/3 border border-white/10">
                   <Target className="text-emerald-400" />
                   <h3 className="mt-4 font-bold">
                     Our Mission
@@ -67,7 +67,7 @@ function About() {
                   </p>
                 </div>
 
-                <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/10">
+                <div className="p-6 rounded-2xl bg-white/3 border border-white/10">
                   <Eye className="text-emerald-400" />
                   <h3 className="mt-4 font-bold">
                     Our Vision

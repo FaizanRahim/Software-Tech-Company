@@ -77,7 +77,7 @@ function Team() {
             {team.map((person) => (
               <article
                 key={person.name}
-                className="group overflow-hidden rounded-3xl border border-white/10 bg-white/[0.03]"
+                className="group overflow-hidden rounded-3xl border border-white/10 bg-white/3"
               >
 
                 <div className="grid sm:grid-cols-2">

@@ -31,11 +31,11 @@ function Navbar() {
 
             <div>
               <div className="font-bold text-lg">
-                BookKeeper
+                   Biznexia
               </div>
 
               <div className="text-[9px] uppercase tracking-[3px] text-emerald-400">
-                Accounting Technology
+                PVT LMT
               </div>
             </div>
           </Link>

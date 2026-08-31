@@ -17,7 +17,7 @@ import {
 } from "lucide-react";
 
 import heroImage from "../assets/hero-accounting.jpg";
-import dashboardImage from "../assets/dashboard.jpg";
+import dashboardImage from "../assets/dashboard.png";
 import officeImage from "../assets/office.jpg";
 
 function Home() {
@@ -374,7 +374,7 @@ function Home() {
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-14">
 
             {[
-              ["CEO", "Your Name", "ceo.jpg"],
+              ["CEO", "Aqib Javeed", "ceo.jpeg"],
               ["CFO", "Your Name", "cfo.jpg"],
               ["CTO", "Your Name", "cto.jpg"],
               ["HR Director", "Your Name", "hr.jpg"],
