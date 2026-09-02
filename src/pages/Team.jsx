@@ -6,14 +6,14 @@ import {
   ArrowUpRight,
 } from "lucide-react";
 
-import ceo from "../assets/ceo.jpg";
+import ceo from "../assets/ceo.jpeg";
 import cfo from "../assets/cfo.jpg";
 import cto from "../assets/cto.jpg";
 import hr from "../assets/hr.jpg";
 
 const team = [
   {
-    name: "Your CEO Name",
+    name: "Aqib Javeed",
     role: "Chief Executive Officer",
     image: ceo,
     bio: "Leads company strategy, partnerships and long-term growth.",

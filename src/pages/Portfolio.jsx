@@ -5,6 +5,7 @@ import financeImage from "../assets/finance.jpg";
 import dashboardImage from "../assets/dashboard.png";
 import officeImage from "../assets/meeting.jpg";
 
+
 const projects = [
   {
     title: "Fintech Growth Dashboard",
